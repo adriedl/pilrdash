@@ -10,8 +10,8 @@
     "save_request": 1,
     "save_response": 1,
     "delete_if_successful": 0,
-    "package_url": "<link-to-github-repo>",
-    "package_function": "<your-functions-name>",
+    "package_url": "https://github.com/adriedl/pilrdash/edit/master/R/",
+    "package_function": "helloDashboard",
     "resource_path": "/github/MeiResearchLtd/pilr.dash.r/R/pilr_dashboard_panel",
     "input_datasets": [
 	  {
