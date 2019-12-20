@@ -3,7 +3,7 @@
 #require(ggvis)
 #library(ggvis)
 
-HelloDashboard <- function(data, params){
+HelloDashboard <- function(...){
   #print("Hello, Dashboard!")
   iris %>%
     ggvis(x=~Sepal.Length, y=~Sepal.Width) %>%
