@@ -1,7 +1,7 @@
 # prints the string "Hello, Dashboard"
-#install.packages("ggvis")
-#require(ggvis)
-#library(ggvis)
+install.packages("ggvis")
+require(ggvis)
+library(ggvis)
 
 HelloDashboard <- function(data, params, ...){
   #print("Hello, Dashboard!")
